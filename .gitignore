@@ -1,0 +1,6 @@
+node_modules/
+.next/
+package-lock.json
+treasury-label-verification-app-enhanced.zip
+test-uploads/
+*.traineddata
