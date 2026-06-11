@@ -108,16 +108,9 @@ npm start
 
 ## Deployment
 
-This app can be deployed on Vercel or another Node-compatible hosting provider.
+This prototype is deployed on Vercel from the GitHub repository. The production deployment is publicly accessible at:
 
-Suggested Vercel steps:
-
-1. Push this repository to GitHub.
-2. Log in to Vercel.
-3. Import the GitHub repository.
-4. Use the default Next.js settings.
-5. Deploy.
-6. Copy the deployed URL into the Treasury submission form and into the `Live Prototype` section above.
+https://treasury-label-verification-app.vercel.app/
 
 ## Test Scenario
 
