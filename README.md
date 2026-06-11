@@ -4,7 +4,7 @@ This is a standalone proof-of-concept web application for alcohol label verifica
 
 ## Live Prototype
 
-Add deployed URL here after deployment.
+https://treasury-label-verification-app.vercel.app/
 
 ## Core Features
 
